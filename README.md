@@ -4,7 +4,7 @@ Hi 👋 My name is Joshua Netherton
 A-Level Student
 ---------------
 
-Currently studying Computer Science, Geography, and Physics, I am looking to go into a Degree Apprenticeship.
+Currently studying Computer Science, Geography, and Physics. I am looking to go into a Degree Apprenticeship.
 
 * 🌍  I'm based in Cheltenham
 * ✉️  You can contact me at [joshuanetherton1@gmail.com](mailto:joshuanetherton1@gmail.com)
