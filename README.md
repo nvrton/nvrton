@@ -10,7 +10,7 @@ Currently studying Computer Science, Geography, and Physics. I am looking to go 
 * ✉️  You can contact me at [joshuanetherton1@gmail.com](mailto:joshuanetherton1@gmail.com)
 * 🚀  I'm currently working on [a Nuclear Reactor Meltdown Simulator](http://github.com/nvrton/Programming-Project)
 * 🧠  I'm learning about Machine Learning Algorithms
-* 🤝  I'm open to collaborating on projects with a new direction.
+* 🤝  I'm open to collaborating on projects with a new direction
 
 ### Skills
 
